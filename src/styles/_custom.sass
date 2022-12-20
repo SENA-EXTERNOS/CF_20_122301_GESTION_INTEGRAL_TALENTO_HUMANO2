@@ -1,15 +1,61 @@
 .banner-principal-decorativo
-  &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+  &-6
+    animation: float2 1.6s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 60%
+    margin-left: -8%
+    display: none
+  &-5
+    animation: float2 1.5s ease-in-out infinite alternate
+    position: absolute
+    top: 60%
+    margin-left: -8%
+  &-4
+    animation: float2 1.4s ease-in-out infinite alternate
+    position: absolute
+    top: 60%
+    margin-left: -8%
+  &-3
+    animation: float2 1.3s ease-in-out infinite alternate
+    position: absolute
+    top: 60%
+    margin-left: -8%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float2 1.2s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 60%
+    margin-left: -8%
+  &-1
+    animation: float2 1s ease-in-out infinite alternate
+    position: absolute
+    top: 60%
+    margin-left: -8%
+  &-7
+    animation: float1 1.5s ease-in-out infinite alternate
+    position: realtive
+    width: 20%
+    top: 73%
+    right: 63%
+  &-8
+    animation: float1 2s ease-in-out infinite alternate
+    position: relative
+    width: 20%
+    top: 40%
+    right: 80%
+  &-9
+    animation: float1 1.5s ease-in-out infinite alternate
+    position: relative
+    width: 20%
+    top: 25%
+    right: 15%
 
+.banner-principal__img 
+  width: 33%
+  z-index: 1
+
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/banner-interno.png") !important
+  bottom: -130px  
 
 @keyframes float1
   0%
@@ -17,3 +63,449 @@
 
   100%
     transform: translateY(0px)
+
+@keyframes float2
+  0%
+    opacity: 1
+
+  20%
+    opacity: 1
+
+  100%
+    opacity: 0   
+
+@keyframes float1
+  0%
+    transform: translateY(20px)
+
+  100%
+    transform: translateY(0px)
+
+@keyframes visual 
+	0% 
+		transform: scale3d(1, 1, 1);
+
+	30% 
+		transform: scale3d(1.25, 0.75, 1);
+
+	40% 
+		transform: scale3d(0.75, 1.25, 1);
+
+	50% 
+		transform: scale3d(1.15, 0.85, 1);
+
+	65% 
+		transform: scale3d(0.95, 1.05, 1);
+
+	75% 
+		transform: scale3d(1.05, 0.95, 1);
+
+	100% 
+		transform: scale3d(1, 1, 1);
+
+@keyframes visual2 
+	0% 
+		opacity: 0;
+		transform: rotate(-540deg) scale(0)
+		transform-origin: 50% 0;
+
+	100% 
+		opacity: 1;
+		transform: rotate(0) scale(1)
+		transform-origin: 50% 0
+
+//animacion flotante------------------------------------  
+.animacion-flotante
+  animation: float1 3s ease-in-out infinite alternate
+  position: relative
+  top: 0rem
+  right: 0%
+  width: 100%
+
+.flotante-movil
+  @media screen and ( max-width: 500px )
+    width: 60% !important
+    left: 20%  
+      
+//-------------------------------------------------- 
+
+//background para temas  
+.bkg-intro
+  position: relative
+  .row, figure, p, h3, .titulo-sexto.color-primario
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -24px
+    margin-top: -95px
+    width: calc( 100% + 96px )
+    height: 100%       
+    background-image: url('../assets/curso/temas/bkg-intro.svg')
+    background-size: 100% auto  
+    background-repeat: no-repeat
+    background-position: center top
+  @media screen and ( max-width: 500px )
+    &::before
+      margin-left: -10px;
+      margin-top: -45px;
+      width: calc( 81% + 96px)        
+
+.bkg-t1
+  position: relative
+  .row, figure, p, h3, .titulo-sexto.color-primario
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -24px
+    margin-top: 0
+    width: calc( 100% + 96px )
+    height: 100%       
+    background-image: url('../assets/curso/temas/tema1/t1-bkg.svg')
+    background-size: 100% auto  
+    background-repeat: no-repeat
+    background-position: center top 
+  @media screen and ( max-width: 500px )
+    &::before
+      margin-left: 0px;
+      margin-top: 200px;
+      width: calc( 81% + 96px);   
+
+.bkg-t2
+  position: relative
+  .row, figure, p, h3, .titulo-sexto.color-primario
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -24px
+    margin-top: 0
+    width: calc( 100% + 96px )
+    height: 100%       
+    background-image: url('../assets/curso/temas/tema2/t2-bkg.svg')
+    background-size: 100% auto  
+    background-repeat: no-repeat
+    background-position: center top 
+  @media screen and ( max-width: 500px )
+    &::before
+      margin-left: 0px;
+      margin-top: 200px;
+      width: calc( 81% + 96px);            
+         
+.bkg-t3
+  position: relative
+  .row, figure, p, h3, .titulo-sexto.color-primario
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -24px
+    margin-top: -95px
+    width: calc( 100% + 96px )
+    height: 100%       
+    background-image: url('../assets/curso/temas/tema3/t3-bkg.svg')
+    background-size: 100% auto  
+    background-repeat: no-repeat
+    background-position: center top
+  @media screen and ( max-width: 500px )
+    &::before
+      margin-left: -10px;
+      margin-top: -45px;
+      width: calc( 81% + 96px)   
+
+.bkg-t4
+  position: relative
+  .row, figure, p, h3, .titulo-sexto.color-primario
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -24px
+    margin-top: -95px
+    width: calc( 100% + 96px )
+    height: 100%       
+    background-image: url('../assets/curso/temas/tema4/t4-bkg.svg')
+    background-size: 100% auto  
+    background-repeat: no-repeat
+    background-position: center top
+  @media screen and ( max-width: 500px )
+    &::before
+      margin-left: -10px;
+      margin-top: -45px;
+      width: calc( 81% + 96px)             
+  
+.bf-t1
+  background-image: url(../assets/curso/temas/tema1/t1-bkg-inferior.svg)
+  background-repeat: no-repeat
+  background-size: contain
+  background-position: bottom      
+
+.bf-t2
+  background-image: url(../assets/curso/temas/tema2/t2-bkg-inferior.svg)
+  background-repeat: no-repeat
+  background-size: contain
+  background-position: bottom 
+
+.bf-t3
+  background-image: url(../assets/curso/temas/tema3/t3-bkg-inferior.svg)
+  background-repeat: no-repeat
+  background-size: contain
+  background-position: bottom    
+
+.bf-t4
+  background-image: url(../assets/curso/temas/tema4/t4-bkg-inferior.svg)
+  background-repeat: no-repeat
+  background-size: contain
+  background-position: bottom    
+
+//----------------------------------------------------------
+
+//custom para cajon punto caliente tema 6------------
+.estilo-cajon
+  background-color: #F6F6F6
+  border-left: 35px solid #7FC733 !important
+
+.img-infografica.color-acento-botones .img-infografica__item__numero
+  color: #000000
+  font-size: x-large
+//---------------------------------------------------      
+
+//fondo degradado-----------------------------------  
+.color-degrade
+  background: linear-gradient(263deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 72%, rgba(247,202,46,1) 87%, rgba(247,202,46,1) 88%, rgba(247,202,46,1) 90%, rgba(247,202,46,1) 92%, rgba(247,202,46,1) 94%, rgba(247,202,46,1) 96%, rgba(247,202,46,1) 98%, rgba(247,202,46,1) 100%); 
+  border-radius: 5px 
+  -webkit-backdrop-filter: blur(1px)
+  backdrop-filter: blur(1px)
+//-------------------------------------------------- 
+
+//colores para viñetas------------------------------------------------
+.vineta-verde
+  color: #7FC733
+.vineta-morada
+  color: #6836BF  
+//--------------------------------------------------------------------  
+
+//color de fondo TabsA -----------
+.tabs-a__tab
+  background-color: #e8e8e8;
+.colorTab
+  background-color: #fef7dc
+.tabs-a__content-item
+  margin-left: 135px;
+  width: 400px;
+  @media ( max-width: 500px )
+    margin-left: 0
+    width: 310px
+    margin-bottom: 20px    
+.tabs-a__tab
+  width: 180%
+  @media ( max-width: 500px )
+    width: 100%
+    
+//------------------------------  
+
+//custom tarjeta avatar-----------------  
+.t1.tarjeta-avatar
+  width: 95%
+  height: 90%
+  > img
+    width: 35%
+    top: 20px
+  @media ( max-width: 500px )
+    width: 80%
+    height: 100%
+    left: 10%
+    * p
+      margin-top: 60px
+      margin-bottom: 0px
+
+.t2.tarjeta-avatar
+  width: 105%
+  height: 90%
+  > img
+    width: 35%
+    top: 25px
+  * p
+    margin-top: -25% 
+    margin-bottom: 0px     
+  @media ( max-width: 500px )
+    width: 80%
+    height: 100%
+    left: 10%
+    * p
+      margin-top: 20px !important
+      margin-bottom: 0px   
+
+.t3.tarjeta-avatar
+  width: 95%
+  height: 95%
+  > img
+    width: 35%
+    top: 25px
+  * p
+    margin-top: 25% !important
+    margin-bottom: 0px     
+  @media ( max-width: 500px )
+    width: 100%
+    height: 100%
+    left: 0%
+    * p
+      margin-top: 20px
+      margin-bottom: 0px            
+      
+.tarjeta--amarilla-1
+  background-color: #fef7dc
+
+.tarjeta
+  width: 100%
+//------------------------------------    
+
+
+//custom para slyder----------------------------------------  
+.bkg-slyder
+  background-color: #F7F4FF
+  border-radius: 15px  
+
+.slyder-a__tipo-b .slyder-a__btn--sigt, .slyder-a__btn--atrs
+    background-color: #6836BF  
+//-----------------------------------------------------------
+
+//custom para cajones de colores------------------------- 
+.cajon.color-1
+    background-color: #e1d7f2
+.cajon.color-1:before
+    background-color: #6836bf  
+.cajon.color-2
+  background-color: #fef7dc
+.cajon.color-2:before
+    background-color: #f7ca18
+    
+//--------------------------------------------------------- 
+
+//backgorund carrusel de tarjetas
+.carrusel1
+  background-color: #F7F4FF
+  border-radius: 30px !important
+  width: 210px;
+  height: 220px;
+  position: relative;
+  left: 30px;  
+  @media screen and ( max-width: 500px )
+    width: 230px;
+    height: 220px;
+    position: relative;
+    left: 12%; 
+
+//--------------------------------------
+
+//negrilla para titulos de TabsC Activos-----
+.tabs-c__tab--active
+  font-weight: bold
+  border-bottom: 4px solid !important
+//--------------------------------------------    
+
+//custos PasosA--------------------
+.pasos-a__linea__esquina__linea
+  border-radius: 0px;  
+.texto1
+  left: 20%
+  position: relative
+  @media screen and ( max-width: 500px )
+    left: 0%
+    position: relative
+.img1
+  position: relative
+  left: 70%  
+  @media screen and ( max-width: 500px )
+    position: relative
+    left: 30%
+.texto2
+  right: 20%
+  position: relative
+  @media screen and ( max-width: 500px )
+    right: 0%
+    position: relative  
+.img2
+  position: relative
+  right: 70%
+  @media screen and ( max-width: 500px )
+    position: relative
+    left: 90%  
+//---------------------------------------------------------
+
+///// Custom acordeon A tipo A -------------------------------------- 
+.tarjeta.acordeonA
+  background-color: #f7f4ff 
+
+.acordion__accion__btn--a
+  background-color: #e8e1f6 !important
+
+.acordion__activo
+  background-color: #fef7dc  !important
+//--------------------------------------------------------------------        
+
+//custom bloque texto G--------------------  
+.bloque-texto-g__img
+  width: 50%
+  left: 50%
+  @media screen and ( max-width: 500px )
+    width: 100%
+    left: 0
+
+.bloque-texto-g__texto
+  height: 200px
+  right: 37%
+  position: relative
+  width: 65%
+  @media screen and ( max-width: 500px )  
+    height: 270px
+    right: 0
+    position: relative
+    width: 100%
+
+.b1.bloque-texto-g__texto
+  height: 250px  
+  @media screen and ( max-width: 500px )
+    height: 310px
+    right: 0
+    position: relative
+    width: 100%
+
+.b2.bloque-texto-g__img
+  width: 55%;
+  left: 50%;
+  @media screen and ( max-width: 500px )
+    width: 100%
+    left: 0  
+
+.b2.bloque-texto-g__texto
+  height: 270px  
+  @media screen and ( max-width: 500px )
+    height: 460px
+    right: 0
+    position: relative
+    width: 100%   
+
+.b3.bloque-texto-g__texto
+  height: 250px  
+  @media screen and ( max-width: 500px )
+    height: 410px
+    right: 0
+    position: relative
+    width: 100%    
+
+.b4.bloque-texto-g__img
+  width: 55%;
+  left: 50%;
+  @media screen and ( max-width: 500px )
+    width: 100%
+    left: 0  
+
+.b4.bloque-texto-g__texto
+  height: 270px  
+  @media screen and ( max-width: 500px )
+    height: 330px
+    right: 0
+    position: relative
+    width: 100%      
