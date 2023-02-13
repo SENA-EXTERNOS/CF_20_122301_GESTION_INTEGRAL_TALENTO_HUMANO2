@@ -11,32 +11,32 @@
       .row.justify-content-center
         .col-lg-4.justify-content-center(data-aos="flip-up")
           figure
-            img(src='@/assets/curso/temas/tema1/t1-1.svg', alt='').mb-3    
+            img(src='@/assets/curso/temas/tema1/t1-1.svg', alt='').mb-3
         .col-lg-8.col-xs-6
-          p Comencemos diciendo que el análisis o analítica de datos (DA) es el proceso que investiga conjuntos de datos, para encontrar tendencias y extraer conclusiones sobre la información que contienen. La analítica de datos se utiliza con la ayuda de sistemas y #[em software] especializados. 
+          p Comencemos diciendo que el análisis o analítica de datos (DA) es el proceso que investiga conjuntos de datos, para encontrar tendencias y extraer conclusiones sobre la información que contienen. La analítica de datos se utiliza con la ayuda de sistemas y #[em software] especializados.
           p La propuesta de análisis de datos puede colaborar con las empresas en el aumento de los ingresos, mejorar la eficiencia operativa, optimizar las campañas de #[em marketing] y los esfuerzos de servicio al cliente. También puede utilizarse para responder, rápidamente, a las nuevas tendencias del mercado y obtener una ventaja competitiva sobre la competencia.
         p.mt-3 Los métodos y técnicas de análisis de datos son útiles para encontrar información en los datos, como métricas, hechos y cifras. Los dos métodos principales de análisis de datos son:
 
       .row.justify-content-center.mt-3
         .col-lg-4
-          img(src='@/assets/curso/temas/tema1/t1-2.svg', alt='' data-aos="flip-up").mb-3  
+          img(src='@/assets/curso/temas/tema1/t1-2.svg', alt='' data-aos="flip-up").mb-3
         .col-lg-8
           TabsA.color-acento-contenido
             .tarjeta.colorTab.color-acento-contenido--borde.p-3(style="background-color:#fdf4d1" titulo="Análisis de datos cuantitativos")
               .row.p-4
                 .col-auto
                   p El análisis de datos cuantitativos implica trabajar con variables numéricas, incluyendo estadísticas, porcentajes, cálculos, mediciones y otros datos, debido a que la naturaleza de los datos cuantitativos es numérica.
-                  
+
             .tarjeta.colorTab.color-acento-contenido--borde.p-3(style="background-color:#fdf4d1" titulo="Análisis de datos cualitativos")
               .row.p-4
                 .col-auto
-                  p Las técnicas de análisis cualitativo de datos suelen formar parte del proceso de desarrollo de #[em software]. Los probadores de software registran los fallos que van desde errores funcionales, hasta faltas de ortografía, para determinar la gravedad de los mismos en una escala predeterminada de crítico, a bajo. Cuando se recogen, estos datos proporcionan información que puede ayudar a mejorar el producto final.
+                  p Las técnicas de análisis cualitativo de datos, suelen formar parte del proceso de desarrollo de #[em software]. Los probadores de #[em software] registran los fallos que van desde errores funcionales, hasta faltas de ortografía, para determinar la gravedad de los mismos en una escala predeterminada de crítico, a bajo. Cuando se recogen, estos datos proporcionan información que puede ayudar a mejorar el producto final.
 
       .row.justify-content-center.mt-5
         .col-lg-2(data-aos="flip-left").mb-5
           img(src='@/assets/curso/temas/tema1/t1-3.svg', alt='').animacion-flotante
         .col-lg-10
-          p Los datos se pueden clasificar según su formato o el tipo de información que contienen, lo que sirve específicamente para la estructuración de arreglos de los mismos o la creación de bases de datos. 
+          p Los datos se pueden clasificar según su formato o el tipo de información que contienen, lo que sirve específicamente para la estructuración de arreglos de los mismos o la creación de bases de datos.
 
     .row.justify-content-center.mb-3.mt-3
       p La analítica de datos responde a preguntas como:
@@ -47,13 +47,13 @@
               img(src='@/assets/curso/temas/tema1/t1-4.svg' alt='AvatarTop')
               .tarjeta.tarjeta--amarilla-1.p-5
                 p.text-center.mt-3 ¿Qué se hizo? (filtros).
-          
+
           .col-sm-6.col-lg-4.mb-4.mb-lg-0
             .t1.tarjeta-avatar
               img(src='@/assets/curso/temas/tema1/t1-4.svg' alt='AvatarTop')
               .tarjeta.tarjeta--amarilla-1.p-5
                 p.text-center.mt-3 ¿Cuánto se hizo? (operaciones matemáticas con campos numéricos).
-          
+
           .col-sm-6.col-lg-4.mb-4.mb-lg-0
             .t1.tarjeta-avatar
               img(src='@/assets/curso/temas/tema1/t1-4.svg' alt='AvatarTop')
@@ -61,7 +61,7 @@
                 p.text-center.mt-3 ¿Cuándo? (fechas y tiempos).
 
     .row.justify-content-center.mt-3
-      p En este orden, los cálculos, filtros y medidas, se realizan según el tipo de datos. 
+      p En este orden, los cálculos, filtros y medidas, se realizan según el tipo de datos.
       p Se puede decir que se obtiene calidad en los datos, si se cumplen las siguientes competencias: datos, si se cumplen las siguientes competencias:
       .col-lg-10.mt-3
         ImagenInfografica.color-acento-botones
@@ -71,7 +71,7 @@
 
           .tarjeta.estilo-cajon.p-3(x="22.5%" y="10%" numero="+")
             p Exactitud entre el evento real y el registrado.
-          
+
           .tarjeta.estilo-cajon.p-3(x="16.5%" y="29%" numero="+")
             p Se establece como el porcentaje de datos aprobados frente a la posibilidad de cumplimiento del 100 %.
 
@@ -85,16 +85,16 @@
             p La unicidad de los datos se mide con todos los registros dentro de un conjunto de datos.
 
           .tarjeta.estilo-cajon.p-3(x="77.5%" y="10%" numero="+")
-            p Captura de datos reales y actuales.      
+            p Captura de datos reales y actuales.
 
           .tarjeta.estilo-cajon.p-3(x="83.6%" y="29%" numero="+")
-            p Los datos con los mismos atributos deben representarse en un formato y tipos de datos iguales.      
+            p Los datos con los mismos atributos deben representarse en un formato y tipos de datos iguales.
 
           .tarjeta.estilo-cajon.p-3(x="88.7%" y="47.4%" numero="+")
             p Grado de coherencia con el que se implementan restricciones relacionales definidas entre dos tablas (tablas normalizadas).
 
           .tarjeta.estilo-cajon.p-3(x="83.6%" y="66%" numero="+")
-            p Se refiere al grado de las cifras redondeadas y desglosadas. La precisión depende de los requisitos del sistema. 
+            p Se refiere al grado de las cifras redondeadas y desglosadas. La precisión depende de los requisitos del sistema.
 
           .tarjeta.estilo-cajon.p-3(x="77.5%" y="84.5%" numero="+")
             p Proximidad del valor de los datos a valores predeterminados.
@@ -104,8 +104,8 @@
       p Ahora, ¿qué papel juega la analítica de datos en el talento humano? El siguiente video da respuesta a esta pregunta.
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption VIDEO  
-      
+      figcaption VIDEO
+
       p.mt-4.mb-0 A continuación, profundizaremos en esta temática del talento humano y el análisis de datos.
 
     .bkg-slyder.px-5.py-3.mb-5.mt-5
@@ -114,15 +114,15 @@
           .col-lg-8.mb-4.mb-lg-0.pt-5.pt-0.position-relative
             h4.ps-4 ¿Qué tipos de datos se pueden procesar en el área de talento humano de las organizaciones?
             ul.lista-ul.mt-3.ps-4
-              li 
+              li
                 i.fas.fa-chevron-right.vineta-verde
                 | Datos de la remuneración y estímulos salariales, que constituyen un registro de remuneración.
-              li 
+              li
                 i.fas.fa-chevron-right.vineta-verde
                 | Datos de los beneficios y asistencias sociales, que conforman un registro de beneficios.
-              li 
+              li
                 i.fas.fa-chevron-right.vineta-verde
-                | Datos de candidatos (registro de candidatos), de cursos y actividades de adiestramiento (registro de entrenamiento), etc.            
+                | Datos de candidatos (registro de candidatos), de cursos y actividades de adiestramiento (registro de entrenamiento), etc.
           .col-10.col-lg-4
             figure
               img(src='@/assets/curso/temas/tema1/t1-6.svg', alt='')
@@ -139,24 +139,24 @@
           .col-lg-8.mb-4.mb-lg-0.pt-5.pt-0.position-relative
             h4.ps-4 ¿Qué es la analítica en la gestión de talento humano?
             ul.lista-ul.mt-3.ps-4
-              li 
+              li
                 i.fas.fa-chevron-right.vineta-verde
                 | La escogencia del personal de una manera eficiente.
-              li 
+              li
                 i.fas.fa-chevron-right.vineta-verde
                 | Modernizar el sistema de remuneración.
-              li 
+              li
                 i.fas.fa-chevron-right.vineta-verde
                 | Entender los componentes y los aspectos que motivan a los empleados de una organización.
-              li 
+              li
                 i.fas.fa-chevron-right.vineta-verde
                 | Detectar a los líderes de una empresa.
-              li 
+              li
                 i.fas.fa-chevron-right.vineta-verde
                 | Encontrar y fidelizar el mejor talento.
-              li 
+              li
                 i.fas.fa-chevron-right.vineta-verde
-                | Ser más eficaces en cualquier faceta de trabajo de la empresa u organización         
+                | Ser más eficaces en cualquier faceta de trabajo de la empresa u organización
           .col-10.col-lg-4
             figure
               img(src='@/assets/curso/temas/tema1/t1-8.svg', alt='')
@@ -164,11 +164,11 @@
     .row.justify-content-center
       .col-lg-4.justify-content-center(data-aos="flip-up")
         figure
-          img(src='@/assets/curso/temas/tema1/t1-9.svg', alt='').mb-3    
+          img(src='@/assets/curso/temas/tema1/t1-9.svg', alt='').mb-3
       .col-lg-8.col-xs-6
         p El fin último de esta tendencia, no es solo optimizar el área de gestión de talento, sino tener completo conocimiento de los principales indicadores que afectan a la organización desde el lado del capital humano y crear una nueva estrategia que los integre al cumplimiento cabal de los objetivos establecidos en las áreas operativa y financiera.
         .cajon.color-2.p-4
-          p Cada vez son más los departamentos de recursos humanos que utilizan herramientas y canales digitales en sus procesos de recruiting (reclutamiento), como LinkedIn o Twitter, para comunicarse e interactuar con sus potenciales candidatos. Apoyarse en este tipo de herramientas, es sin duda un paso importante hacia su digitalización.
+          p Cada vez son más los departamentos de recursos humanos que utilizan herramientas y canales digitales en sus procesos de #[em recruiting] (reclutamiento), como LinkedIn o Twitter, para comunicarse e interactuar con sus potenciales candidatos. Apoyarse en este tipo de herramientas, es sin duda un paso importante hacia su digitalización.
 
     .row.justify-content-center.mt-3
       p.mb-4 Las herramientas digitales indispensables en un departamento de talento humano son:
@@ -177,13 +177,13 @@
           .row.justify-content-center.mb-3
             .col-5
               img(src='@/assets/curso/temas/tema1/t1-10.svg' alt='AvatarTop')
-          p.text-center Redes sociales internas.   
+          p.text-center Redes sociales internas.
 
         .tarjeta.carrusel1.p-4
           .row.justify-content-center.mb-3
             .col-5
               img(src='@/assets/curso/temas/tema1/t1-11.svg' alt='AvatarTop')
-          p.text-center Herramientas de gamificación.                      
+          p.text-center Herramientas de gamificación.
 
         .tarjeta.carrusel1.p-4
           .row.justify-content-center.mb-3
@@ -195,7 +195,7 @@
           .row.justify-content-center.mb-3
             .col-5
               img(src='@/assets/curso/temas/tema1/t1-13.svg' alt='AvatarTop')
-          p.text-center.mt-4 Plataformas de gestión.      
+          p.text-center.mt-4 Plataformas de gestión.
 
 
         .tarjeta.carrusel1.p-4
@@ -214,7 +214,7 @@
               h4.mt-0 ¿Qué está pasando?
               p Este es el formato más común. Explica, con el apoyo de los datos y a través de informes o gráficos, los sucesos acontecidos en el pasado; para ilustrar: el dueño de un almacén de ropa puede determinar la cantidad promedio de ventas durante un período determinado; el fabricante de zapatos, la cantidad de piezas producidas o aquellas que han tenido una demanda mayor.
               p Por lo general, el estudio descriptivo se inicia con un gran conjunto de datos que, a primera vista, no ofrece mucha información, pero que, al utilizar aplicaciones de #[em software] para su tratamiento (limpieza, ordenamiento, transformación, visualización), expresan de una forma accesible lo que ha venido sucediendo en las empresas. Con esta referencia, se toman acciones que se adapten a los objetivos de la empresa.
-              p El análisis descriptivo de datos se refiere al tipo de análisis que se encuentra presente en la gran mayoría de empresas y por el que normalmente se comienza. En este tipo de análisis, es común estudiar tableros de control, gráficas de barras, gráficas de pasteles, infografías y otros. 
+              p El análisis descriptivo de datos se refiere al tipo de análisis que se encuentra presente en la gran mayoría de empresas y por el que normalmente se comienza. En este tipo de análisis, es común estudiar tableros de control, gráficas de barras, gráficas de pasteles, infografías y otros.
             .col-md-4
               figure
                 img(src='@/assets/curso/temas/tema1/t1-15.svg', alt='')
@@ -228,19 +228,19 @@
               p La principal utilidad del análisis de diagnóstico a nivel empresarial, se encuentra en la posibilidad de detectar problemas, con relación a una situación en particular.
             .col-md-4
               figure
-                img(src='@/assets/curso/temas/tema1/t1-16.svg', alt='')     
+                img(src='@/assets/curso/temas/tema1/t1-16.svg', alt='')
 
         .py-3.py-md-4(titulo="Datos o analítica predictiva")
           .row.p-4
             .col-md-8.mb-4.mb-md-0
               h4.mt-0 ¿Qué es lo más probable que pueda pasar?
-              p El análisis predictivo tiene que ver con el pronóstico. Ya sea la probabilidad que ocurra un evento en el futuro, la previsión de una cantidad cuantificable o la estimación de un punto en el tiempo en el que algo podría suceder – todos ellos se hacen a través de modelos predictivos. En un mundo de gran incertidumbre, ser capaz de predecir, permite tomar mejores decisiones. 
+              p El análisis predictivo tiene que ver con el pronóstico. Ya sea la probabilidad que ocurra un evento en el futuro, la previsión de una cantidad cuantificable o la estimación de un punto en el tiempo en el que algo podría suceder – todos ellos se hacen a través de modelos predictivos. En un mundo de gran incertidumbre, ser capaz de predecir, permite tomar mejores decisiones.
               p Es el formato de mayor utilidad para las empresas, porque basados en este modelo, se pueden calcular probabilidades de lo que va a suceder. Se basa en los resultados del análisis descriptivo y de diagnóstico para la detección, tanto de las tendencias como de las excepciones, así como de las también de las agrupaciones.
-              p Aunque los análisis predictivos no intentan predecir el futuro al 100 %, porque este tipo de análisis es probabilístico, sí pronostican qué podría suceder. Como guía de análisis predictivo, tenemos los modelos que aprenden a detectar si una transacción con tarjeta de crédito es fraudulenta o no. 
+              p Aunque los análisis predictivos no intentan predecir el futuro al 100 %, porque este tipo de análisis es probabilístico, sí pronostican qué podría suceder. Como guía de análisis predictivo, tenemos los modelos que aprenden a detectar si una transacción con tarjeta de crédito es fraudulenta o no.
               p A medida que las organizaciones avancen en los niveles de madurez en su transformación digital, este tipo de análisis dejará de ser un experimento para convertirse en una necesidad.
             .col-md-4
               figure
-                img(src='@/assets/curso/temas/tema1/t1-17.svg', alt='') 
+                img(src='@/assets/curso/temas/tema1/t1-17.svg', alt='')
 
         .py-3.py-md-4(titulo="Datos o analítica prescriptiva")
           .row.p-4
@@ -252,9 +252,9 @@
               p Por esta razón, es conveniente que los gerentes de empresas comparen la magnitud de la inversión requerida en relación a los resultados reales que se esperan obtener antes de tomar la decisión de adoptar la analítica prescriptiva.
             .col-md-4
               figure
-                img(src='@/assets/curso/temas/tema1/t1-18.svg', alt='')                 
+                img(src='@/assets/curso/temas/tema1/t1-18.svg', alt='')
 
-    .row.justify-content-start.align-items-center.mb-5.mt-5        
+    .row.justify-content-start.align-items-center.mb-5.mt-5
       .col-lg-4
         .color-degrade.p-1(data-aos="fade-right")
           h4(data-aos="fade-down").mb-0 El análisis y ordenación de datos
@@ -266,20 +266,20 @@
         p El análisis de datos es el proceso de exploración, transformación y examinación de datos, para identificar tendencias y patrones que revelen insights (perspectivas) importantes y aumenten la eficiencia para respaldar la toma de decisiones.
 
     .row.justify-content-center
-      p Para hacer un análisis de datos se tienen los siguientes pasos: 
+      p Para hacer un análisis de datos se tienen los siguientes pasos:
       .col-lg-10
         PasosA.color-acento-contenido.mb-5(tipo="n")
           .row
             .col-auto
               figure(data-aos="zoom-in")
-                img(src='@/assets/curso/temas/tema1/t1-20.svg', alt='').img1       
+                img(src='@/assets/curso/temas/tema1/t1-20.svg', alt='').img1
             .col-lg
               p.texto1.mt-4 Definir la razón del análisis.
 
 
           .row
             .col-lg
-              p.texto2.mt-4 Establecer lo que se medirá y cómo se hará.   
+              p.texto2.mt-4 Establecer lo que se medirá y cómo se hará.
             .col-auto
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/temas/tema1/t1-21.svg', alt='').img2
@@ -288,14 +288,14 @@
           .row
             .col-auto
               figure(data-aos="zoom-in")
-                img(src='@/assets/curso/temas/tema1/t1-22.svg', alt='').img1          
+                img(src='@/assets/curso/temas/tema1/t1-22.svg', alt='').img1
             .col-lg
               p.texto1.mt-4 Obtener los datos.
 
 
           .row
             .col-lg
-              p.texto2.mt-4 Clasificar los datos.  
+              p.texto2.mt-4 Clasificar los datos.
             .col-auto
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/temas/tema1/t1-23.svg', alt='').img2
@@ -304,14 +304,14 @@
           .row
             .col-auto
               figure(data-aos="zoom-in")
-                img(src='@/assets/curso/temas/tema1/t1-24.svg', alt='').img1      
+                img(src='@/assets/curso/temas/tema1/t1-24.svg', alt='').img1
             .col-lg
               p.texto1.mt-4 Analizar los datos.
 
 
           .row
             .col-lg
-              p.texto2.mt-4 Realizar una interpretación de los datos.      
+              p.texto2.mt-4 Realizar una interpretación de los datos.
             .col-auto
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/temas/tema1/t1-25.svg', alt='').img2
@@ -328,8 +328,9 @@
           .row(titulo="Importar y exportar datos")
             .col-12.ps-5
               p La exportación de datos sirve para mover datos de un entorno a otro. Por ejemplo, se pueden mover datos desde un entorno de desarrollo a uno de producción, o desde una plataforma de base de datos, a otra.
-              p Cuando se importa un documento en un proyecto, se puede especificar qué partes del documento se importan y extraen. La función “importación de datos” permite subir información de fuentes externas y combinarla con los datos que se recopilan a través de un #[em software] o aplicación. Se puede utilizar Analytics para organizar y analizar todos los datos de la forma que mejor se adapte a la empresa.
-           
+              p Cuando se importa un documento en un proyecto, se puede especificar qué partes del documento se importan y extraen. La función “importación de datos” permite subir información de fuentes externas y combinarla con los datos que se recopilan a través de un #[em software] o aplicación. Se puede utilizar #[em Analytics] para organizar y analizar todos los datos, de la forma que mejor se adapte a la empresa.
+
+
 
 </template>
 
