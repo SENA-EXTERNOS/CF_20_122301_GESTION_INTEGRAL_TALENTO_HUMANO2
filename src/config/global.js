@@ -239,6 +239,10 @@ export default {
     },
     {
       referencia:
+        'Dozo, D. y Martínez Quijano, P. (2013). <em>Glosario Iberoamericano de Protección de Datos</em>',
+    },
+    {
+      referencia:
         'Pantaleo, G. y Lis Rinaudo, L. (2018). <em>Ingeniería de Software.</em> Alfaomega.',
       link: '',
     },
