@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="130" height="130" viewBox="0 0 130 130">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_45021" data-name="Rectángulo 45021" width="96" height="96" fill="none" stroke="#fff" stroke-width="2"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_137473" data-name="Grupo 137473" transform="translate(-509 -682)">
+    <g id="Grupo_136757" data-name="Grupo 136757" transform="translate(-60 -720)">
+      <circle id="Elipse_5537" data-name="Elipse 5537" cx="65" cy="65" r="65" transform="translate(569 1402)" fill="#b13e8d"/>
+    </g>
+    <g id="Grupo_137469" data-name="Grupo 137469" transform="translate(526 699)">
+      <g id="Grupo_137468" data-name="Grupo 137468" clip-path="url(#clip-path)">
+        <path id="Trazado_195786" data-name="Trazado 195786" d="M78.2,41.08A37.451,37.451,0,1,1,40.75,3.63,37.449,37.449,0,0,1,78.2,41.08Z" transform="translate(7.253 7.986)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <circle id="Elipse_5569" data-name="Elipse 5569" cx="43.2" cy="43.2" r="43.2" transform="translate(4.8 5.867)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Trazado_195787" data-name="Trazado 195787" d="M43.456,41.848A19.519,19.519,0,0,1,14.74,15.413a19.35,19.35,0,0,1,27.354-.9" transform="translate(21.408 20.437)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+        <path id="Trazado_195788" data-name="Trazado 195788" d="M6.4,85.733l81-79.666" transform="translate(1.6 1.6)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg id="Grupo_137571" data-name="Grupo 137571" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70" height="60.56" viewBox="0 0 70 60.56">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_45093" data-name="Rectángulo 45093" width="70" height="60.56" fill="#b13e8d" stroke="#b13e8d" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_137570" data-name="Grupo 137570" clip-path="url(#clip-path)">
+    <path id="Trazado_195901" data-name="Trazado 195901" d="M64.352,40.2a.739.739,0,0,0-.739.739V70.593L39.6,48.732,48.7,40.453A.739.739,0,0,0,47.7,39.36l-15.156,13.8L2.646,25.939H39.972a.739.739,0,0,0,0-1.477H.739A.739.739,0,0,0,0,25.2V72.264A.739.739,0,0,0,.739,73H64.352a.739.739,0,0,0,.739-.739V40.934a.739.739,0,0,0-.739-.739M32.546,54.9a.736.736,0,0,0,.5-.193L38.5,49.731l23.94,21.794H2.646l23.94-21.794L32.048,54.7a.737.737,0,0,0,.5.193m-7.056-6.164L1.477,70.593V26.872Z" transform="translate(0 -12.443)" fill="#b13e8d" stroke="#b13e8d" stroke-width="1"/>
+    <path id="Trazado_195902" data-name="Trazado 195902" d="M103.293,0A12.758,12.758,0,1,0,116.05,12.758,12.773,12.773,0,0,0,103.293,0m0,24.038a11.281,11.281,0,1,1,11.28-11.28,11.293,11.293,0,0,1-11.28,11.28" transform="translate(-46.05)" fill="#b13e8d" stroke="#b13e8d" stroke-width="1"/>
+    <path id="Trazado_195903" data-name="Trazado 195903" d="M115.651,22.629H114V12.982a.739.739,0,0,0-1.259-.524l-2.388,2.368a.738.738,0,0,0,1.04,1.049l1.13-1.12v7.875h-1.65a.739.739,0,0,0,0,1.477h4.777a.739.739,0,1,0,0-1.477" transform="translate(-56.02 -6.228)" fill="#b13e8d" stroke="#b13e8d" stroke-width="1"/>
+    <path id="Trazado_195904" data-name="Trazado 195904" d="M75.585,7.428A1.395,1.395,0,1,0,74.19,6.033a1.4,1.4,0,0,0,1.395,1.395" transform="translate(-37.737 -2.359)" fill="#b13e8d" stroke="#b13e8d" stroke-width="1"/>
+    <path id="Trazado_195905" data-name="Trazado 195905" d="M58.579,7.428a1.395,1.395,0,1,0-1.395-1.395,1.4,1.4,0,0,0,1.395,1.395" transform="translate(-29.087 -2.359)" fill="#b13e8d" stroke="#b13e8d" stroke-width="1"/>
+    <path id="Trazado_195906" data-name="Trazado 195906" d="M41.573,7.428a1.395,1.395,0,1,0-1.395-1.395,1.4,1.4,0,0,0,1.395,1.395" transform="translate(-20.436 -2.359)" fill="#b13e8d" stroke="#b13e8d" stroke-width="1"/>
+  </g>
+</svg>
