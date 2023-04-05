@@ -103,8 +103,7 @@
       p Para una resolución integral del problema de calidad de datos, es necesario realizar un análisis de cada parámetro, lo que permitirá resolver todas las dudas que existen en el proceso y con ello reducir riesgos insatisfacción.
       p Ahora, ¿qué papel juega la analítica de datos en el talento humano? El siguiente video da respuesta a esta pregunta.
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption VIDEO
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/UDip3NdmaEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
       p.mt-4.mb-0 A continuación, profundizaremos en esta temática del talento humano y el análisis de datos.
 

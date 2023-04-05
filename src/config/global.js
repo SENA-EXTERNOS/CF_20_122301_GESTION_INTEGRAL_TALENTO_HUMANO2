@@ -200,11 +200,6 @@ export default {
         'problema encontrado en un sistema que causa que este falle cuando desempeña funciones requeridas.',
     },
     {
-      termino: 'Defecto',
-      significado:
-        'problema encontrado en un sistema que causa que este falle cuando desempeña funciones requeridas.',
-    },
-    {
       termino: 'Instrumento de evaluación',
       significado:
         'evalúa investigación ya sea preguntas, datos estadísticos o cualquier fuente para validar confiabilidad.',
@@ -244,7 +239,6 @@ export default {
     {
       referencia:
         'Pantaleo, G. y Lis Rinaudo, L. (2018). <em>Ingeniería de Software.</em> Alfaomega.',
-      link: '',
     },
   ],
   creditos: {
