@@ -132,7 +132,7 @@ export default {
     {
       tema: 'Analítica de datos',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2022). <em>Analítica de datos>/em> (video). YouTube.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2022). <em>Analítica de datos</em> (video). YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=eK0QG1SUk9A&t=2s',
     },

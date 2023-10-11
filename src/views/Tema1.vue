@@ -62,7 +62,7 @@
 
     .row.justify-content-center.mt-3
       p En este orden, los cálculos, filtros y medidas, se realizan según el tipo de datos.
-      p Se puede decir que se obtiene calidad en los datos, si se cumplen las siguientes competencias: datos, si se cumplen las siguientes competencias:
+      p Se puede decir que se obtiene calidad en los datos, si se cumplen las siguientes competencias:
       .col-lg-10.mt-3
         ImagenInfografica.color-acento-botones
           template(v-slot:imagen)
@@ -100,7 +100,7 @@
             p Proximidad del valor de los datos a valores predeterminados.
 
     .row.justify-content-center.mt-3
-      p Para una resolución integral del problema de calidad de datos, es necesario realizar un análisis de cada parámetro, lo que permitirá resolver todas las dudas que existen en el proceso y con ello reducir riesgos insatisfacción.
+      p Para una resolución integral del problema de calidad de datos, es necesario realizar un análisis de cada parámetro, lo que permitirá resolver todas las dudas que existen en el proceso y con ello reducir riesgos de insatisfacción.
       p Ahora, ¿qué papel juega la analítica de datos en el talento humano? El siguiente video da respuesta a esta pregunta.
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/UDip3NdmaEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -136,7 +136,7 @@
 
         .row.justify-content-center.align-items-center.my-lg-4
           .col-lg-8.mb-4.mb-lg-0.pt-5.pt-0.position-relative
-            h4.ps-4 ¿Qué es la analítica en la gestión de talento humano?
+            h4.ps-4 ¿Cuáles son las ventajas de la analítica de datos en la gestión de talento humano?
             ul.lista-ul.mt-3.ps-4
               li
                 i.fas.fa-chevron-right.vineta-verde
@@ -262,7 +262,7 @@
       .col-lg-2(data-aos="flip-left").mb-5
         img(src='@/assets/curso/temas/tema1/t1-19.svg', alt='').animacion-flotante
       .col-lg-10
-        p El análisis de datos es el proceso de exploración, transformación y examinación de datos, para identificar tendencias y patrones que revelen insights (perspectivas) importantes y aumenten la eficiencia para respaldar la toma de decisiones.
+        p El análisis de datos es el proceso de exploración, transformación y examinación de datos, para identificar tendencias y patrones que revelen #[em insights] (perspectivas) importantes y aumenten la eficiencia para respaldar la toma de decisiones.
 
     .row.justify-content-center
       p Para hacer un análisis de datos se tienen los siguientes pasos:

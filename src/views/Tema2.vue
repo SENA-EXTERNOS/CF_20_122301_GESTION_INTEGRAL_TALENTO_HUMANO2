@@ -45,12 +45,12 @@
           .tarjeta.colorTab.color-acento-contenido--borde.p-3(style="background-color:#fdf4d1" titulo="Fuente especializada")
             .row.p-4
               .col-auto
-                p Esta fuente, a diferencia de la general, aporta información sobre conceptos concretos, o sobre determinados campos de estudio o ciencia. Se refiere a revistas científicas especializadas en un área en concreto, manuales sobre materias determinadas, o portales específicos donde se conservan datos relacionados con temas que estemos investigando.
+                p Esta fuente, a diferencia de la general, aporta información sobre conceptos concretos, o sobre determinados campos de estudio o ciencia. Se refiere a revistas científicas especializadas en un área en concreto, manuales sobre materias determinadas, o portales específicos donde se conservan datos relacionados con temas que se este investigando.
                 
           .tarjeta.colorTab.color-acento-contenido--borde.p-3(style="background-color:#fdf4d1" titulo="Fuente digital")
             .row.p-4
               .col-auto
-                p Esta fuente es la que expone información, y se llega a ella, a través de un soporte digital. Se refiere a revistas digitales, periódicos digitales, así como también a otros portales electrónicos en los que se aporta información. Para conseguir esta información, se necesita de un dispositivo electrónico que nos permita obtenerla.
+                p Esta fuente es la que expone información, y se llega a ella, a través de un soporte digital. Se refiere a revistas digitales, periódicos digitales, así como también a otros portales electrónicos en los que se aporta información. Para conseguir esta información, se necesita de un dispositivo electrónico que permita obtenerla.
                 
           .tarjeta.colorTab.color-acento-contenido--borde.p-3(style="background-color:#fdf4d1" titulo="Fuente textual o escrita")
             .row.p-4
@@ -92,10 +92,10 @@
         .col-lg-2.col-sm-9(data-aos="flip-left").mb-5
           img(src='@/assets/curso/temas/tema2/t2-4.svg', alt='').animacion-flotante.flotante-movil
         .col-lg-10
-          p Ahora, la fuente más grande de datos es la que tiene su origen en la red y forman parte, de acuerdo con los estudiosos, del pedazo más grande del pastel llamado #[i Big data] que es una de las fuentes de datos más conocida y usada en esta era tecnológica.
+          p Ahora, la fuente más grande de datos es la que tiene su origen en la red y forman parte, de acuerdo con los estudiosos, del pedazo más grande del pastel llamado #[i big data] que es una de las fuentes de datos más conocida y usada en esta era tecnológica.
 
       .row.justify-content-center.mb-3.mt-3
-        p Estos son varios de los cuestionamientos que nos planteamos a la hora de abordar una estrategia de Big data.
+        p Estos son varios de los cuestionamientos que nos planteamos a la hora de abordar una estrategia de #[em big data].
         .col-lg-10
           .row
             .col-sm-6.col-lg-4.mb-4.mb-lg-0
@@ -168,14 +168,14 @@
           p Los #[i Data Sets] son una colección de datos que, generalmente, están dados por filas y columnas; estos datos se generan directamente desde los sistemas de información de la empresa o se pueden encontrar como datos abiertos que se descargan desde el Internet o también se pueden comprar. 
 
     .row.justify-content-center
-      p.mt-2 Es claro que hay muchas formas de alimentar los sistemas de datos con la información que necesitan. Todas estas fuentes de datos y casos de uso potenciales, han llevado a afirmar que la tecnología de #[i Big data] y automatización, conducirá a niveles de optimización antes inimaginables en la fabricación, la logística, el almacenamiento y la entrega de última milla que se refiere al último paso del proceso de entrega, cuando un paquete se mueve desde un centro de transporte hasta su destino final.
+      p.mt-2 Es claro que hay muchas formas de alimentar los sistemas de datos con la información que necesitan. Todas estas fuentes de datos y casos de uso potenciales, han llevado a afirmar que la tecnología de #[i big data] y automatización, conducirá a niveles de optimización antes inimaginables en la fabricación, la logística, el almacenamiento y la entrega de última milla que se refiere al último paso del proceso de entrega, cuando un paquete se mueve desde un centro de transporte hasta su destino final.
       .col-lg-10
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/t2-10.svg')})`}"
           )
           .b1.bloque-texto-g__texto.p-4
-            p.mb-0 Los #[i Big data] pueden recopilarse a partir de comentarios compartidos públicamente en redes sociales y sitios web, recogidos voluntariamente en aparatos electrónicos y aplicaciones personales, mediante cuestionarios, compras de productos y registros electrónicos. 
+            p.mb-0 Los #[i big data] pueden recopilarse a partir de comentarios compartidos públicamente en redes sociales y sitios web, recogidos voluntariamente en aparatos electrónicos y aplicaciones personales, mediante cuestionarios, compras de productos y registros electrónicos. 
             br
             br
             | La presencia de sensores y otras entradas en los dispositivos inteligentes permite recopilar datos en un amplio espectro de situaciones y circunstancias.

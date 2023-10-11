@@ -6,7 +6,7 @@
       .titulo-principal.color-acento-contenido
         .titulo-principal__numero
           span 3
-        h1 Herramientas tecnológicas y #[em Big data]
+        h1 Herramientas tecnológicas y #[em big data]
 
       .row.justify-content-center
         .col-lg-4.justify-content-center(data-aos="flip-up")
@@ -24,7 +24,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/t3-2.svg')})`}"
           )
           .b4.bloque-texto-g__texto.p-4
-            p.mb-0 La implementación de herramientas tecnológicas, puede contribuir a las organizaciones a incrementar la productividad de sus negocios, perfeccionando la efectividad de sus procesos y ubicando la compañía en un estado de innovación permanente, capaz de ajustarse a las necesidades de los clientes y posicionarse en un mercado más amplio y competitivo a un futuro cercano. Para lograr la una transformación digital y aceptación positiva en la nueva situación, los directivos tienen que estar expectantes a los adelantos tecnológicos que nos ofrece el mercado.
+            p.mb-0 La implementación de herramientas tecnológicas, puede contribuir a las organizaciones a incrementar la productividad de sus negocios, perfeccionando la efectividad de sus procesos y ubicando la compañía en un estado de innovación permanente, capaz de ajustarse a las necesidades de los clientes y posicionarse en un mercado más amplio y competitivo a un futuro cercano. Para lograrA una transformación digital y aceptación positiva en la nueva situación, los directivos tienen que estar expectantes a los adelantos tecnológicos que nos ofrece el mercado.
 
     .row.justify-content-center.mt-5(data-aos="zoom-in")
       p Hay muchas opciones de tecnología, herramientas y plataformas, que ayudarán a las empresas en su desarrollo.
@@ -76,7 +76,7 @@
           .row.p-4
             .col-md-8.mb-4.mb-md-0
               p (#[em Global Harmonized System] – Sistema Globalmente Armonizado)
-              p Se refiere al conjunto de funciones y servicios que abordan una agrupación completa de operaciones de almacén. Aunque cada SGA puede proporcionar diferentes servicios de nivel secundario, las características principales de un SGA se centran en la gestión del inventario. Un SGA típico puede ofrecer funciones como la gestión de los registros de inventario, los detalles de los envíos de inventario, la ubicación de las existencias dentro del almacén y la gestión de la capacidad general del almacén. El SGA suele formar parte de una solución de software de planificación de recursos empresariales (ERP), pero también puede ser una aplicación independiente. Además, un SGA suele integrarse directamente con otros sistemas de información, como el sistema de gestión de la cadena de suministro, el sistema de información de producción/fabricación y los sistemas de información de ventas.
+              p Se refiere al conjunto de funciones y servicios que abordan una agrupación completa de operaciones de almacén. Aunque cada SGA puede proporcionar diferentes servicios de nivel secundario, las características principales de un SGA se centran en la gestión del inventario. Un SGA típico puede ofrecer funciones como la gestión de los registros de inventario, los detalles de los envíos de inventario, la ubicación de las existencias dentro del almacén y la gestión de la capacidad general del almacén. El SGA suele formar parte de una solución de #[em software] de planificación de recursos empresariales (ERP), pero también puede ser una aplicación independiente. Además, un SGA suele integrarse directamente con otros sistemas de información, como el sistema de gestión de la cadena de suministro, el sistema de información de producción/fabricación y los sistemas de información de ventas.
             .col-md-4
               figure
                 img(src='@/assets/curso/temas/tema3/t3-7.svg', alt='')
@@ -94,7 +94,7 @@
           .row.p-4
             .col-md-8.mb-4.mb-md-0
               p Es un tipo de #[i software] de aplicación, diseñado para ejecutarse en un dispositivo móvil, como un smartphone o una tableta. Las aplicaciones móviles suelen servir para ofrecer a los usuarios servicios similares a los de los ordenadores. Las APP suelen ser pequeñas unidades de #[i software] individuales con funciones limitadas.
-              p Las aplicaciones móviles se alejan de los sistemas de #[i software] integrados que suelen encontrarse en los computadores. En su lugar, cada app ofrece una funcionalidad limitada y aislada, como un juego, una calculadora o la navegación web móvil. Aunque las aplicaciones pueden haber evitado la multitarea debido a los limitados recursos de #[i hardware] de los primeros dispositivos móviles, su especificidad es ahora parte de su atractivo porque permite a los consumidores elegir a dedo lo que sus dispositivos son capaces de hacer.
+              p Las aplicaciones móviles se alejan de los sistemas de #[i software] integrados que suelen encontrarse en los computadores. En su lugar, cada app ofrece una funcionalidad limitada y aislada, como un juego, una calculadora o la navegación #[em web] móvil. Aunque las aplicaciones pueden haber evitado la multitarea debido a los limitados recursos de #[i hardware] de los primeros dispositivos móviles, su especificidad es ahora parte de su atractivo porque permite a los consumidores elegir a dedo lo que sus dispositivos son capaces de hacer.
               p
               p
             .col-md-4
@@ -104,7 +104,7 @@
         .py-3.py-md-4(titulo="Sistema geolocalización")
           .row.p-4
             .col-md-8.mb-4.mb-md-0
-              p Es la capacidad de rastrear el paradero de un dispositivo utilizando el GPS, las torres de telefonía móvil, los puntos de acceso wifi o una combinación de ellos. Dado que los dispositivos son utilizados por individuos, la geolocalización utiliza sistemas de posicionamiento para rastrear el paradero de un individuo hasta las coordenadas de latitud y longitud, o más prácticamente, una dirección física. Tanto los dispositivos móviles como los de escritorio pueden utilizar la geolocalización.
+              p Es la capacidad de rastrear el paradero de un dispositivo utilizando el GPS, las torres de telefonía móvil, los puntos de acceso #[em wifi] o una combinación de ellos. Dado que los dispositivos son utilizados por individuos, la geolocalización utiliza sistemas de posicionamiento para rastrear el paradero de un individuo hasta las coordenadas de latitud y longitud, o más prácticamente, una dirección física. Tanto los dispositivos móviles como los de escritorio pueden utilizar la geolocalización.
             .col-md-4
               figure
                 img(src='@/assets/curso/temas/tema3/t3-10.svg', alt='')
@@ -142,7 +142,7 @@
             p La herramienta de presentación permite al usuario mostrar información desglosada en pequeños fragmentos y dispuesta en páginas denominadas diapositivas. Una serie de diapositivas que presentan una idea coherente a un público se denomina presentación. Las diapositivas pueden tener texto, imágenes, tablas, audio, video u otra información multimedia. MS-PowerPoint, OpenOffice Impress, Lotus Freelance, son algunas de las herramientas de presentación más populares.
 
           .tarjeta.estilo-cajon.p-3(x="89%" y="73%" numero="+")
-            p Son herramientas que las empresas utilizan para crear, enviar, probar, optimizar e informar sobre sus campañas de correo electrónico. Una de las herramientas de marketing por correo electrónico más comunes es un proveedor de servicios de correo electrónico, o ESP, como Campaign Monitor, que permite a las empresas crear hermosos correos electrónicos, crear recorridos automatizados y entregar mensajes personalizados que mejoran su relación con los clientes.
+            p Son herramientas que las empresas utilizan para crear, enviar, probar, optimizar e informar sobre sus campañas de correo electrónico. Una de las herramientas de #[em marketing] por correo electrónico más comunes es un proveedor de servicios de correo electrónico, o ESP, como Campaign Monitor, que permite a las empresas crear hermosos correos electrónicos, crear recorridos automatizados y entregar mensajes personalizados que mejoran su relación con los clientes.
 
     .row.justify-content-center.mt-4
       .col-lg-8
@@ -159,14 +159,14 @@
         figure
           img(src='@/assets/curso/temas/tema3/t3-13.svg', alt='').mb-3
       .col-lg-8.col-xs-6
-        p Desde hace mucho tiempo se almacena y se accede a cantidades de información, y es en esta época cuando esa administración de datos toma el nombre de #[i Big data] o datos masivos.
+        p Desde hace mucho tiempo se almacena y se accede a cantidades de información, y es en esta época cuando esa administración de datos toma el nombre de #[i big data] o datos masivos.
         p Es la expresión que explica que una gran cantidad de datos aumenta, de manera exponencial, con el correr del tiempo; se refiere al conjunto de datos tan grande y profundo, que ninguna de las herramientas clásicas de datos puede almacenarlos o procesarlos de manera eficiente; se refiere a un conjunto de estrategias que permiten reunir y analizar una gran cantidad de datos, en los que se encuentran modelos desconocidos que hacen que información importante pueda ser evidente.
         .cajon.color-1.p-4.mb-3
           p No hay una metodología única a seguir en las aplicaciones reales a gran escala. Normalmente, una vez definido el problema de negocio, se necesita una etapa de investigación para diseñar la metodología a utilizar. Sin embargo, es relevante mencionar unas pautas generales que se aplican a casi todos los problemas.
 
     .row.justify-content-center.mt-4
-      p.mb-4 Una de las tareas más importantes en el análisis de #[i Big data] es el modelado estadístico, es decir, los problemas de clasificación o regresión supervisados y no supervisados. Una vez que los datos se han limpiado y pre-procesado, disponibles para el modelado, se debe tener cuidado en la evaluación de diferentes modelos con métricas de pérdida razonables y luego, una vez que el modelo se implementa, se debe informar de la evaluación y los resultados. Un error común en la modelización predictiva es limitarse a implementar el modelo y no medir nunca su rendimiento.
-      p Cuando se habla de #[i Big data], se hacen evidentes sus dimensiones, enfocadas en el manejo de grandes cantidades de información:
+      p.mb-4 Una de las tareas más importantes en el análisis de #[i big data] es el modelado estadístico, es decir, los problemas de clasificación o regresión supervisados y no supervisados. Una vez que los datos se han limpiado y pre-procesado, disponibles para el modelado, se debe tener cuidado en la evaluación de diferentes modelos con métricas de pérdida razonables y luego, una vez que el modelo se implementa, se debe informar de la evaluación y los resultados. Un error común en la modelización predictiva es limitarse a implementar el modelo y no medir nunca su rendimiento.
+      p Cuando se habla de #[i big data], se hacen evidentes sus dimensiones, enfocadas en el manejo de grandes cantidades de información:
       .col-lg-8
         TabsA.color-acento-contenido.mt-3
           .tarjeta.colorTab.color-acento-contenido--borde.p-3(style="background-color:#fdf4d1" titulo="Volumen")
@@ -182,7 +182,7 @@
           .tarjeta.colorTab.color-acento-contenido--borde.p-3(style="background-color:#fdf4d1" titulo="Variedad")
             .row.p-4
               .col-auto
-                p Los datos se manifiestan en toda clase de formatos; van desde datos numéricos estructurados en bases de datos tradicionales hasta documentos de texto no estructurados, correos electrónicos, videos, audios y transacciones financieras, etc. Además de las velocidades y variedades de datos en desarrollo, los flujos de esos datos son imprevisibles, cambian y varían con mucha frecuencia. Las nuevas plataformas y redes sociales, reducen el ciclo de vida de los datos y hacen que su origen venga de muchas más fuentes; esa mezcla incluye textos, imágenes, web, tweets, audios, videos, etc.
+                p Los datos se manifiestan en toda clase de formatos; van desde datos numéricos estructurados en bases de datos tradicionales hasta documentos de texto no estructurados, correos electrónicos, videos, audios y transacciones financieras, etc. Además de las velocidades y variedades de datos en desarrollo, los flujos de esos datos son imprevisibles, cambian y varían con mucha frecuencia. Las nuevas plataformas y redes sociales, reducen el ciclo de vida de los datos y hacen que su origen venga de muchas más fuentes; esa mezcla incluye textos, imágenes, #[em web, tweets], audios, videos, etc.
 
           .tarjeta.colorTab.color-acento-contenido--borde.p-3(style="background-color:#fdf4d1" titulo="Veracidad")
             .row.p-4
@@ -192,7 +192,7 @@
           .tarjeta.colorTab.color-acento-contenido--borde.p-3(style="background-color:#fdf4d1" titulo="Valor")
             .row.p-4
               .col-auto
-                p Es la dimensión más importante del Big data y, de alguna manera, incluye a todas las demás. En definitiva, si todas las demás dimensiones son correctas, se podrá extraer más información y conocimiento. Por lo tanto, serán datos muy valiosos. El valor implica amortizar los datos, sacar toda la inteligencia que tienen y generar ventajas competitivas.
+                p Es la dimensión más importante del #[em big data] y, de alguna manera, incluye a todas las demás. En definitiva, si todas las demás dimensiones son correctas, se podrá extraer más información y conocimiento. Por lo tanto, serán datos muy valiosos. El valor implica amortizar los datos, sacar toda la inteligencia que tienen y generar ventajas competitivas.
       .col-lg-4
         img(src='@/assets/curso/temas/tema3/t3-14.svg', alt='' data-aos="flip-up").mb-3
 </template>

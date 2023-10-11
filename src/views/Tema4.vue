@@ -86,10 +86,10 @@
                 ul.lista-ul.mt-3
                   li
                     i.fas.fa-chevron-right.vineta-verde
-                    | #[em Freeware] (con licencias gratuitas).
+                    | #[em Freeware&nbsp] (con licencias gratuitas).
                   li
                     i.fas.fa-chevron-right.vineta-verde
-                    | #[em Shareware] (son gratuitas, pero con funcionamiento limitado).
+                    | #[em Shareware&nbsp] (son gratuitas, pero con funcionamiento limitado).
                   li
                     i.fas.fa-chevron-right.vineta-verde
                     | Libre (puede ser cambiado, usado y redistribuido con las modificaciones).
